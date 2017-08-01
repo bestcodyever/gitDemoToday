@@ -4,6 +4,6 @@ function hello(string){
 
 
 
-function stupid(){
+function hello(){
   return true
 }
