@@ -1,9 +1,7 @@
 function hello(string){
-  return 'sup brah'
+  return false
 }
 
-
-
-function stupid(){
-  return true
+function hello(string){
+  return false
 }
