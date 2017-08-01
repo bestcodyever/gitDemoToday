@@ -1,7 +1,7 @@
 function hello(string){
-  return true
+  return 'true'
 }
 
 function hello(){
-  return false
+  return 'false'
 }
