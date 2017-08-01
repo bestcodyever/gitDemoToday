@@ -1,7 +1,6 @@
 function hello(string){
-  return true
+  return 'true'
 }
-
-function hello(){
+function hello(string){
   return false
 }
